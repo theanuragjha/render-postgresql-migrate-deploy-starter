@@ -32,3 +32,5 @@ npm start
 ## Submitting
 
 Push your changes to your fork and open a Pull Request against your own fork's default branch (not this original starter). Follow the assignment instructions in the learning unit for what to include in the PR description before submitting the PR link.
+
+<!-- prisma migrate deploy configuration -->
